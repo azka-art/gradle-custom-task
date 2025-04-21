@@ -3,3 +3,21 @@
 
 # Ignore Gradle build output directory
 build
+
+# Gradle build files
+.gradle/
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# MacOS files
+.DS_Store
